@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+table{
+    background-color: black;
+    color: white;
+    height: 80vh;
+    margin-top: 50px;
+    margin-left: 105px;
+    border: 2px solid red;
+}
+
+tr{
+    height: 40px;
+
+    border-bottom: 2px solid red;
+   
+}
+hr{
+    height: 2px;
+    color: white;
+
+}
+img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+
+}
+.name{
+   width: 160px;
+}
+.symbol{
+    width: 160px;
+}
+
+.cr-Price{
+    width: 150px;
+}
+.volume{
+    width: 200px;
+}
+.percent{
+    width: 120px;
+    color: green;
+}
+.markUp{
+    width: 190px;
+}
